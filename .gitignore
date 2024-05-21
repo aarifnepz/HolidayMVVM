@@ -13,3 +13,73 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio files
+.idea/
+*.iml
+*.hprof
+
+# Misc
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.tar.gz
+*.zip
+*.tar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# Dependency directory
+/gradle/
+
+# Signed APK files
+/*.apk
+/*.aab
+
+# Environment configuration
+.env
+
+# Android specific files
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.cxx
+*.pdb
+*.mp4
+*.avi
+*.vdi
+*.iso
+*.raw
+*.gcno
+*.gcda
+*.gcov
+*.so
+*.so
+*.cxx
+*.pdb
+
+
